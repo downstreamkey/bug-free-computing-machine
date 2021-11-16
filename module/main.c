@@ -1214,7 +1214,7 @@ int main(void) {
 
     // init CV calibration
     // TODO: refactor me
-    aout[0].cal_scale = 0.996033;
+    aout[0].cal_scale = 0.996034;
     aout[0].cal_offset = 0.498016;
     aout[1].cal_scale = 0.998779;
     aout[1].cal_offset = 6.999390;
